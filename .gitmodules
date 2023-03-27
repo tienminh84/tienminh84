@@ -1,4 +1,4 @@
 [submodule "pyscript"]
 	path = pyscript
 	url = https://github.com/tienminh84/pyscript
-	branch = main
+	branch = 096433b
